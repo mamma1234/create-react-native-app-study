@@ -1,0 +1,12 @@
+{
+  "name": "create-react-native-app-study",
+  "displayName": "create-react-native-app-study",
+  "expo": {
+    "name": "create-react-native-app-study",
+    "slug": "create-react-native-app-study",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
